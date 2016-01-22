@@ -22,7 +22,7 @@
 * [Accessible Rich Internet Applications (WAI-ARIA) Current Status](http://www.w3.org/standards/techs/aria#w3c_all)
 * [Web Accessibility Initiative (WAI)](http://www.w3.org/WAI/)
 * [Web Content Accessibility Guidelines (WCAG) Current Status](http://www.w3.org/standards/techs/wcag#w3c_all)
-
+* [United States Access Board's Section 508 Standards contain performance-based requirements and technical criteria specific to various types of technologies, that aligns with WCAG where possible](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/section-508-standards)
 
 
 
